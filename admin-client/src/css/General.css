@@ -1,0 +1,59 @@
+.user-state-select {
+    width: 13%;;
+}
+
+.date-select {
+    width : 30%;
+}
+
+.general-title {
+    width: 50%;
+    display: inline-block;
+}
+
+.general-title.user-info {
+    text-align: right;
+    color : #fd0606;
+}
+
+.general-label {
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.general-hr {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.general-page-area > nav > ul{
+    justify-content: center;
+}
+
+.btn-modify {
+    padding : 0 !important;
+    text-align: center;
+}
+
+
+/* modal 영역 */
+
+.general-modal > .modal-content {
+    width : 500px;
+    height: 700px;
+    overflow : auto;
+}
+
+.general-modal-btn-area {
+    text-align: right;
+}
+
+.general-modal-card > .row > .col-8 > .card-body{
+    padding : 0;
+    padding-top : 5px;
+    padding-left: 10px;
+}
+
+.general-modal > .modal-content > .modal-body > table > tbody > tr > th {
+    text-align: center;
+}

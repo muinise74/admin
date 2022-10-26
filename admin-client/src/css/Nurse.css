@@ -1,0 +1,36 @@
+.user-state-select {
+    width: 13%;;
+}
+
+.date-select {
+    width : 30%;
+}
+
+.nurse-title {
+    width: 50%;
+    display: inline-block;
+}
+
+.nurse-title.user-info {
+    text-align: right;
+    color : #fd0606;
+}
+
+.nurse-label {
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.nurse-hr {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.nurse-page-area > nav > ul{
+    justify-content: center;
+}
+
+.btn-modify {
+    padding : 0 !important;
+    text-align: center;
+}
